@@ -3,7 +3,7 @@
 ![](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/airplane.jpg)
 
 ## Project Overview
-The Airline Passenger Satisfaction Project addresses a critical challenge faced by airlines: understanding the key drivers behind passenger satisfaction and loyalty in order to enhance service quality and customer retention. Using a dataset of over 104K passenger records, I applied SQL Server for in-depth data analysis and leveraged Power BI to design interactive dashboards that reveal patterns in customer segments, service performance, travel behaviors, and delay impacts. This project showcases an end-to-end analytics workflow, from data cleaning and transformation to advanced querying and dynamic visualization, demonstrating how data-driven approaches can support strategic decisions in the airline industry.
+The Airline Passenger Satisfaction project addresses a critical challenge faced by airlines: understanding the key drivers behind passenger satisfaction and loyalty in order to enhance service quality and customer retention. Using a dataset of over 104K passenger records, I applied SQL Server for in-depth data analysis and leveraged Power BI to design interactive dashboards that reveal patterns in customer segments, service performance, travel behaviors, and delay impacts. This project showcases an end-to-end analytics workflow, from data cleaning and transformation to advanced querying and dynamic visualization, demonstrating how data-driven approaches can support strategic decisions in the airline industry.
 
 - **Dataset Link:** [Airline Passenger Satisfaction Dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data?select=test.csv)
 - **SQL Scripts:** [Airline Passenger Satisfaction SQL Scripts](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/SQL_Queries_Answers/airline_passenger_satisfaction_sql_queries.sql)
@@ -15,7 +15,7 @@ The Airline Passenger Satisfaction Project addresses a critical challenge faced 
 
 ## Tools 
 - Language: SQL
-- Tools: MySQLWorkbench, KNIME, Power BI
+- Tools: SQL Server, KNIME, Power BI
 
 ## Dataset Overview
 ```sql 
