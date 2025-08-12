@@ -15,7 +15,7 @@ The Airline Passenger Satisfaction project addresses a critical challenge faced 
 
 ## Tools 
 - Language: SQL
-- Tools: SQL Server, KNIME, Power BI
+- Tools: SQL Server, Excel, KNIME, Power BI
 
 ## Dataset Overview
 ```sql 
