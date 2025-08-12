@@ -8,7 +8,7 @@ The Airline Passenger Satisfaction project addresses a critical challenge faced 
 - **Dataset Link:** [Airline Passenger Satisfaction Dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data?select=test.csv)
 - **SQL Scripts:** [Airline Passenger Satisfaction SQL Scripts](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/SQL_Queries_Answers/airline_passenger_satisfaction_sql_queries.sql)
 - **SQL Questions/Answers:** [Airline Passenger Satisfaction SQL Quetions/Answers](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/SQL_Queries_Answers/Airline_Passenger_Satisfaction_SQL_Answers.pdf)
-- **Power BI Dashboards:** [Power BI Dashboards](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/PowerBI_Dashboards.pdf)
+- **Power BI Dashboards:** [Airline Passenger Satisfaction](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/PowerBI_Dashboards.pdf)
 
 ## Architecture Overview
 ![](https://github.com/DQuanBui/Airline_Passenger_Satisfaction/blob/main/ArchitectureOverview.png)
